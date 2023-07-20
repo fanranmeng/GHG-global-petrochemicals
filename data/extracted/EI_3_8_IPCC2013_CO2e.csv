@@ -1,0 +1,212 @@
+,name,category,subCategory,CO2e_20a,CO2e_100a
+0,"Carbon dioxide, fossil",Emission to air,low population density,1.0,1.0
+1,"Carbon dioxide, fossil",Emission to air,unspecified,1.0,1.0
+2,"Carbon dioxide, fossil",Emission to air,"low population density, long-term",1.0,1.0
+3,"Carbon dioxide, fossil",Emission to air,lower stratosphere + upper troposphere,1.0,1.0
+4,"Carbon dioxide, fossil",Emission to air,high population density,1.0,1.0
+5,"Carbon dioxide, from soil or biomass stock",Emission to air,indoor,1.0,1.0
+6,"Carbon dioxide, from soil or biomass stock",Emission to air,low population density,1.0,1.0
+7,"Carbon dioxide, from soil or biomass stock",Emission to air,unspecified,1.0,1.0
+8,"Carbon dioxide, land transformation",Emission to air,lower stratosphere + upper troposphere,1.0,1.0
+9,"Carbon dioxide, land transformation",Emission to air,high population density,1.0,1.0
+10,"Carbon dioxide, land transformation",Emission to air,"low population density, long-term",1.0,1.0
+11,"Carbon dioxide, to soil or biomass stock",Emission to soil,agricultural,-1.0,-1.0
+12,"Carbon dioxide, to soil or biomass stock",Emission to soil,unspecified,-1.0,-1.0
+13,"Carbon dioxide, to soil or biomass stock",Emission to soil,industrial,-1.0,-1.0
+14,"Carbon dioxide, to soil or biomass stock",Emission to soil,forestry,-1.0,-1.0
+15,"Carbon monoxide, biogenic",Emission to air,lower stratosphere + upper troposphere,7.65,2.491
+16,"Carbon monoxide, biogenic",Emission to air,"low population density, long-term",7.65,2.491
+17,"Carbon monoxide, fossil",Emission to air,lower stratosphere + upper troposphere,9.2214,4.0624
+18,"Carbon monoxide, fossil",Emission to air,"low population density, long-term",9.2214,4.0624
+19,"Carbon monoxide, fossil",Emission to air,high population density,9.2214,4.0624
+20,"Carbon monoxide, fossil",Emission to air,unspecified,9.2214,4.0624
+21,"Carbon monoxide, fossil",Emission to air,low population density,9.2214,4.0624
+22,"Carbon monoxide, from soil or biomass stock",Emission to air,low population density,9.2214,4.0624
+23,"Carbon monoxide, from soil or biomass stock",Emission to air,indoor,9.2214,4.0624
+24,"Carbon monoxide, from soil or biomass stock",Emission to air,unspecified,9.2214,4.0624
+25,"Carbon monoxide, from soil or biomass stock",Emission to air,lower stratosphere + upper troposphere,9.2214,4.0624
+26,"Carbon monoxide, from soil or biomass stock",Emission to air,high population density,9.2214,4.0624
+27,"Carbon monoxide, from soil or biomass stock",Emission to air,"low population density, long-term",9.2214,4.0624
+28,"Carbon monoxide, non-fossil",Emission to air,high population density,7.65,2.491
+29,"Carbon monoxide, non-fossil",Emission to air,unspecified,7.65,2.491
+30,"Carbon monoxide, non-fossil",Emission to air,low population density,7.65,2.491
+31,Chloroform,Emission to air,unspecified,60.29647382,16.40180896
+32,Chloroform,Emission to air,low population density,60.29647382,16.40180896
+33,Chloroform,Emission to air,high population density,60.29647382,16.40180896
+34,Chloroform,Emission to air,lower stratosphere + upper troposphere,60.29647382,16.40180896
+35,Chloroform,Emission to air,"low population density, long-term",60.29647382,16.40180896
+36,Dinitrogen monoxide,Emission to air,"low population density, long-term",263.7,264.8
+37,Dinitrogen monoxide,Emission to air,lower stratosphere + upper troposphere,263.7,264.8
+38,Dinitrogen monoxide,Emission to air,unspecified,263.7,264.8
+39,Dinitrogen monoxide,Emission to air,low population density,263.7,264.8
+40,Dinitrogen monoxide,Emission to air,high population density,263.7,264.8
+41,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",Emission to air,high population density,3710.4788196,1301.27019996
+42,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",Emission to air,low population density,3710.4788196,1301.27019996
+43,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",Emission to air,"low population density, long-term",3710.4788196,1301.27019996
+44,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",Emission to air,lower stratosphere + upper troposphere,3710.4788196,1301.27019996
+45,"Ethane, 1,1,1,2-tetrafluoro-, HFC-134a",Emission to air,unspecified,3710.4788196,1301.27019996
+46,"Ethane, 1,1,1-trichloro-, HCFC-140",Emission to air,lower stratosphere + upper troposphere,577.77621224,160.09863099
+47,"Ethane, 1,1,1-trichloro-, HCFC-140",Emission to air,high population density,577.77621224,160.09863099
+48,"Ethane, 1,1,1-trichloro-, HCFC-140",Emission to air,low population density,577.77621224,160.09863099
+49,"Ethane, 1,1,1-trichloro-, HCFC-140",Emission to air,"low population density, long-term",577.77621224,160.09863099
+50,"Ethane, 1,1,1-trichloro-, HCFC-140",Emission to air,unspecified,577.77621224,160.09863099
+51,"Ethane, 1,1,1-trifluoro-, HFC-143a",Emission to air,"low population density, long-term",6941.44823395,4804.43907777
+52,"Ethane, 1,1,1-trifluoro-, HFC-143a",Emission to air,low population density,6941.44823395,4804.43907777
+53,"Ethane, 1,1,1-trifluoro-, HFC-143a",Emission to air,lower stratosphere + upper troposphere,6941.44823395,4804.43907777
+54,"Ethane, 1,1,1-trifluoro-, HFC-143a",Emission to air,high population density,6941.44823395,4804.43907777
+55,"Ethane, 1,1,1-trifluoro-, HFC-143a",Emission to air,unspecified,6941.44823395,4804.43907777
+56,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",Emission to air,high population density,6489.97806239,5823.72618701
+57,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",Emission to air,unspecified,6489.97806239,5823.72618701
+58,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",Emission to air,lower stratosphere + upper troposphere,6489.97806239,5823.72618701
+59,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",Emission to air,"low population density, long-term",6489.97806239,5823.72618701
+60,"Ethane, 1,1,2-trichloro-1,2,2-trifluoro-, CFC-113",Emission to air,low population density,6489.97806239,5823.72618701
+61,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",Emission to air,"low population density, long-term",2548.00975967,782.03725986
+62,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",Emission to air,unspecified,2548.00975967,782.03725986
+63,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",Emission to air,high population density,2548.00975967,782.03725986
+64,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",Emission to air,low population density,2548.00975967,782.03725986
+65,"Ethane, 1,1-dichloro-1-fluoro-, HCFC-141b",Emission to air,lower stratosphere + upper troposphere,2548.00975967,782.03725986
+66,"Ethane, 1,1-difluoro-, HFC-152a",Emission to air,lower stratosphere + upper troposphere,505.69920794,137.56020393
+67,"Ethane, 1,1-difluoro-, HFC-152a",Emission to air,high population density,505.69920794,137.56020393
+68,"Ethane, 1,1-difluoro-, HFC-152a",Emission to air,"low population density, long-term",505.69920794,137.56020393
+69,"Ethane, 1,1-difluoro-, HFC-152a",Emission to air,low population density,505.69920794,137.56020393
+70,"Ethane, 1,1-difluoro-, HFC-152a",Emission to air,unspecified,505.69920794,137.56020393
+71,"Ethane, 1,2-dichloro-",Emission to air,"low population density, long-term",3.30219927,0.89826217
+72,"Ethane, 1,2-dichloro-",Emission to air,low population density,3.30219927,0.89826217
+73,"Ethane, 1,2-dichloro-",Emission to air,unspecified,3.30219927,0.89826217
+74,"Ethane, 1,2-dichloro-",Emission to air,high population density,3.30219927,0.89826217
+75,"Ethane, 1,2-dichloro-",Emission to air,lower stratosphere + upper troposphere,3.30219927,0.89826217
+76,"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",Emission to air,low population density,7711.95410637,8592.20208449
+77,"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",Emission to air,"low population density, long-term",7711.95410637,8592.20208449
+78,"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",Emission to air,high population density,7711.95410637,8592.20208449
+79,"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",Emission to air,lower stratosphere + upper troposphere,7711.95410637,8592.20208449
+80,"Ethane, 1,2-dichloro-1,1,2,2-tetrafluoro-, CFC-114",Emission to air,unspecified,7711.95410637,8592.20208449
+81,"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b",Emission to air,high population density,5023.56183413,1982.03546266
+82,"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b",Emission to air,"low population density, long-term",5023.56183413,1982.03546266
+83,"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b",Emission to air,low population density,5023.56183413,1982.03546266
+84,"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b",Emission to air,lower stratosphere + upper troposphere,5023.56183413,1982.03546266
+85,"Ethane, 1-chloro-1,1-difluoro-, HCFC-142b",Emission to air,unspecified,5023.56183413,1982.03546266
+86,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",Emission to air,low population density,291.77024983,79.36717675
+87,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",Emission to air,high population density,291.77024983,79.36717675
+88,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",Emission to air,lower stratosphere + upper troposphere,291.77024983,79.36717675
+89,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",Emission to air,"low population density, long-term",291.77024983,79.36717675
+90,"Ethane, 2,2-dichloro-1,1,1-trifluoro-, HCFC-123",Emission to air,unspecified,291.77024983,79.36717675
+91,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",Emission to air,low population density,1870.43870156,526.54777691
+92,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",Emission to air,lower stratosphere + upper troposphere,1870.43870156,526.54777691
+93,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",Emission to air,high population density,1870.43870156,526.54777691
+94,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",Emission to air,"low population density, long-term",1870.43870156,526.54777691
+95,"Ethane, 2-chloro-1,1,1,2-tetrafluoro-, HCFC-124",Emission to air,unspecified,1870.43870156,526.54777691
+96,"Ethane, chloropentafluoro-, CFC-115",Emission to air,high population density,5859.04711178,7665.36131656
+97,"Ethane, chloropentafluoro-, CFC-115",Emission to air,"low population density, long-term",5859.04711178,7665.36131656
+98,"Ethane, chloropentafluoro-, CFC-115",Emission to air,low population density,5859.04711178,7665.36131656
+99,"Ethane, chloropentafluoro-, CFC-115",Emission to air,lower stratosphere + upper troposphere,5859.04711178,7665.36131656
+100,"Ethane, chloropentafluoro-, CFC-115",Emission to air,unspecified,5859.04711178,7665.36131656
+101,"Ethane, hexafluoro-, HFC-116",Emission to air,high population density,8211.20366114,11123.49391992
+102,"Ethane, hexafluoro-, HFC-116",Emission to air,lower stratosphere + upper troposphere,8211.20366114,11123.49391992
+103,"Ethane, hexafluoro-, HFC-116",Emission to air,low population density,8211.20366114,11123.49391992
+104,"Ethane, hexafluoro-, HFC-116",Emission to air,unspecified,8211.20366114,11123.49391992
+105,"Ethane, hexafluoro-, HFC-116",Emission to air,"low population density, long-term",8211.20366114,11123.49391992
+106,"Ethane, pentafluoro-, HFC-125",Emission to air,"low population density, long-term",6094.03667874,3169.25517622
+107,"Ethane, pentafluoro-, HFC-125",Emission to air,high population density,6094.03667874,3169.25517622
+108,"Ethane, pentafluoro-, HFC-125",Emission to air,lower stratosphere + upper troposphere,6094.03667874,3169.25517622
+109,"Ethane, pentafluoro-, HFC-125",Emission to air,low population density,6094.03667874,3169.25517622
+110,"Ethane, pentafluoro-, HFC-125",Emission to air,unspecified,6094.03667874,3169.25517622
+111,Methane,Emission to air,high population density,84.6,29.7
+112,"Methane, biogenic",Emission to air,lower stratosphere + upper troposphere,83.9,28.5
+113,"Methane, biogenic",Emission to air,"low population density, long-term",83.9,28.5
+114,"Methane, bromo-, Halon 1001",Emission to air,high population density,8.65580448,2.3545465
+115,"Methane, bromo-, Halon 1001",Emission to air,lower stratosphere + upper troposphere,8.65580448,2.3545465
+116,"Methane, bromo-, Halon 1001",Emission to air,low population density,8.65580448,2.3545465
+117,"Methane, bromo-, Halon 1001",Emission to air,"low population density, long-term",8.65580448,2.3545465
+118,"Methane, bromo-, Halon 1001",Emission to air,unspecified,8.65580448,2.3545465
+119,"Methane, bromochlorodifluoro-, Halon 1211",Emission to air,high population density,4589.80812159,1746.48198701
+120,"Methane, bromochlorodifluoro-, Halon 1211",Emission to air,low population density,4589.80812159,1746.48198701
+121,"Methane, bromochlorodifluoro-, Halon 1211",Emission to air,lower stratosphere + upper troposphere,4589.80812159,1746.48198701
+122,"Methane, bromochlorodifluoro-, Halon 1211",Emission to air,unspecified,4589.80812159,1746.48198701
+123,"Methane, bromochlorodifluoro-, Halon 1211",Emission to air,"low population density, long-term",4589.80812159,1746.48198701
+124,"Methane, bromotrifluoro-, Halon 1301",Emission to air,low population density,7800.9561974,6291.62957595
+125,"Methane, bromotrifluoro-, Halon 1301",Emission to air,high population density,7800.9561974,6291.62957595
+126,"Methane, bromotrifluoro-, Halon 1301",Emission to air,"low population density, long-term",7800.9561974,6291.62957595
+127,"Methane, bromotrifluoro-, Halon 1301",Emission to air,unspecified,7800.9561974,6291.62957595
+128,"Methane, bromotrifluoro-, Halon 1301",Emission to air,lower stratosphere + upper troposphere,7800.9561974,6291.62957595
+129,"Methane, chlorodifluoro-, HCFC-22",Emission to air,lower stratosphere + upper troposphere,5280.10704552,1764.62950881
+130,"Methane, chlorodifluoro-, HCFC-22",Emission to air,low population density,5280.10704552,1764.62950881
+131,"Methane, chlorodifluoro-, HCFC-22",Emission to air,unspecified,5280.10704552,1764.62950881
+132,"Methane, chlorodifluoro-, HCFC-22",Emission to air,"low population density, long-term",5280.10704552,1764.62950881
+133,"Methane, chlorodifluoro-, HCFC-22",Emission to air,high population density,5280.10704552,1764.62950881
+134,"Methane, chlorotrifluoro-, CFC-13",Emission to air,high population density,10863.17056314,13893.35260104
+135,"Methane, chlorotrifluoro-, CFC-13",Emission to air,unspecified,10863.17056314,13893.35260104
+136,"Methane, chlorotrifluoro-, CFC-13",Emission to air,"low population density, long-term",10863.17056314,13893.35260104
+137,"Methane, chlorotrifluoro-, CFC-13",Emission to air,lower stratosphere + upper troposphere,10863.17056314,13893.35260104
+138,"Methane, chlorotrifluoro-, CFC-13",Emission to air,low population density,10863.17056314,13893.35260104
+139,"Methane, dichloro-, HCC-30",Emission to air,lower stratosphere + upper troposphere,32.7741165,8.9151946
+140,"Methane, dichloro-, HCC-30",Emission to air,low population density,32.7741165,8.9151946
+141,"Methane, dichloro-, HCC-30",Emission to air,unspecified,32.7741165,8.9151946
+142,"Methane, dichloro-, HCC-30",Emission to air,high population density,32.7741165,8.9151946
+143,"Methane, dichloro-, HCC-30",Emission to air,"low population density, long-term",32.7741165,8.9151946
+144,"Methane, dichlorodifluoro-, CFC-12",Emission to air,"low population density, long-term",10794.23514189,10239.23459918
+145,"Methane, dichlorodifluoro-, CFC-12",Emission to air,unspecified,10794.23514189,10239.23459918
+146,"Methane, dichlorodifluoro-, CFC-12",Emission to air,low population density,10794.23514189,10239.23459918
+147,"Methane, dichlorodifluoro-, CFC-12",Emission to air,lower stratosphere + upper troposphere,10794.23514189,10239.23459918
+148,"Methane, dichlorodifluoro-, CFC-12",Emission to air,high population density,10794.23514189,10239.23459918
+149,"Methane, dichlorofluoro-, HCFC-21",Emission to air,lower stratosphere + upper troposphere,542.83301944,147.66224518
+150,"Methane, dichlorofluoro-, HCFC-21",Emission to air,"low population density, long-term",542.83301944,147.66224518
+151,"Methane, dichlorofluoro-, HCFC-21",Emission to air,low population density,542.83301944,147.66224518
+152,"Methane, dichlorofluoro-, HCFC-21",Emission to air,high population density,542.83301944,147.66224518
+153,"Methane, dichlorofluoro-, HCFC-21",Emission to air,unspecified,542.83301944,147.66224518
+154,"Methane, difluoro-, HFC-32",Emission to air,lower stratosphere + upper troposphere,2434.93685948,676.80778461
+155,"Methane, difluoro-, HFC-32",Emission to air,low population density,2434.93685948,676.80778461
+156,"Methane, difluoro-, HFC-32",Emission to air,unspecified,2434.93685948,676.80778461
+157,"Methane, difluoro-, HFC-32",Emission to air,high population density,2434.93685948,676.80778461
+158,"Methane, difluoro-, HFC-32",Emission to air,"low population density, long-term",2434.93685948,676.80778461
+159,"Methane, fossil",Emission to air,lower stratosphere + upper troposphere,84.6,29.7
+160,"Methane, fossil",Emission to air,"low population density, long-term",84.6,29.7
+161,"Methane, fossil",Emission to air,low population density,84.6,29.7
+162,"Methane, fossil",Emission to air,unspecified,84.6,29.7
+163,"Methane, fossil",Emission to air,high population density,84.6,29.7
+164,"Methane, from soil or biomass stock",Emission to air,lower stratosphere + upper troposphere,84.6,29.7
+165,"Methane, from soil or biomass stock",Emission to air,low population density,84.6,29.7
+166,"Methane, from soil or biomass stock",Emission to air,high population density,84.6,29.7
+167,"Methane, from soil or biomass stock",Emission to air,indoor,84.6,29.7
+168,"Methane, from soil or biomass stock",Emission to air,"low population density, long-term",84.6,29.7
+169,"Methane, from soil or biomass stock",Emission to air,unspecified,84.6,29.7
+170,"Methane, monochloro-, R-40",Emission to air,low population density,44.78808811,12.18322764
+171,"Methane, monochloro-, R-40",Emission to air,unspecified,44.78808811,12.18322764
+172,"Methane, monochloro-, R-40",Emission to air,lower stratosphere + upper troposphere,44.78808811,12.18322764
+173,"Methane, monochloro-, R-40",Emission to air,"low population density, long-term",44.78808811,12.18322764
+174,"Methane, monochloro-, R-40",Emission to air,high population density,44.78808811,12.18322764
+175,"Methane, non-fossil",Emission to air,unspecified,83.9,28.5
+176,"Methane, non-fossil",Emission to air,low population density,83.9,28.5
+177,"Methane, non-fossil",Emission to air,high population density,83.9,28.5
+178,"Methane, tetrachloro-, CFC-10",Emission to air,lower stratosphere + upper troposphere,3484.29927629,1728.47068126
+179,"Methane, tetrachloro-, CFC-10",Emission to air,low population density,3484.29927629,1728.47068126
+180,"Methane, tetrachloro-, CFC-10",Emission to air,"low population density, long-term",3484.29927629,1728.47068126
+181,"Methane, tetrachloro-, R-10",Emission to air,high population density,3484.29927629,1728.47068126
+182,"Methane, tetrachloro-, R-10",Emission to air,unspecified,3484.29927629,1728.47068126
+183,"Methane, tetrafluoro-, R-14",Emission to air,"low population density, long-term",4875.44842707,6625.78042077
+184,"Methane, tetrafluoro-, R-14",Emission to air,lower stratosphere + upper troposphere,4875.44842707,6625.78042077
+185,"Methane, tetrafluoro-, R-14",Emission to air,high population density,4875.44842707,6625.78042077
+186,"Methane, tetrafluoro-, R-14",Emission to air,low population density,4875.44842707,6625.78042077
+187,"Methane, tetrafluoro-, R-14",Emission to air,unspecified,4875.44842707,6625.78042077
+188,"Methane, trichlorofluoro-, CFC-11",Emission to air,unspecified,6898.42980647,4662.93699438
+189,"Methane, trichlorofluoro-, CFC-11",Emission to air,"low population density, long-term",6898.42980647,4662.93699438
+190,"Methane, trichlorofluoro-, CFC-11",Emission to air,low population density,6898.42980647,4662.93699438
+191,"Methane, trichlorofluoro-, CFC-11",Emission to air,high population density,6898.42980647,4662.93699438
+192,"Methane, trichlorofluoro-, CFC-11",Emission to air,lower stratosphere + upper troposphere,6898.42980647,4662.93699438
+193,"Methane, trifluoro-, HFC-23",Emission to air,"low population density, long-term",10826.80979255,12397.60343847
+194,"Methane, trifluoro-, HFC-23",Emission to air,low population density,10826.80979255,12397.60343847
+195,"Methane, trifluoro-, HFC-23",Emission to air,unspecified,10826.80979255,12397.60343847
+196,"Methane, trifluoro-, HFC-23",Emission to air,high population density,10826.80979255,12397.60343847
+197,"Methane, trifluoro-, HFC-23",Emission to air,lower stratosphere + upper troposphere,10826.80979255,12397.60343847
+198,Nitric oxide,Emission to air,unspecified,16.7,-10.8
+199,Nitrogen fluoride,Emission to air,lower stratosphere + upper troposphere,12778.94210066,16069.99763401
+200,Nitrogen fluoride,Emission to air,low population density,12778.94210066,16069.99763401
+201,Nitrogen fluoride,Emission to air,"low population density, long-term",12778.94210066,16069.99763401
+202,Nitrogen fluoride,Emission to air,high population density,12778.94210066,16069.99763401
+203,Nitrogen fluoride,Emission to air,unspecified,12778.94210066,16069.99763401
+204,Perfluoropentane,Emission to air,unspecified,6345.34933827,8546.70453046
+205,Sulfur hexafluoride,Emission to air,lower stratosphere + upper troposphere,17499.90776451,23506.81999316
+206,Sulfur hexafluoride,Emission to air,high population density,17499.90776451,23506.81999316
+207,Sulfur hexafluoride,Emission to air,unspecified,17499.90776451,23506.81999316
+208,Sulfur hexafluoride,Emission to air,"low population density, long-term",17499.90776451,23506.81999316
+209,Sulfur hexafluoride,Emission to air,low population density,17499.90776451,23506.81999316
+210,"VOC, volatile organic compounds, unspecified origin",Emission to air,unspecified,14.0,4.5
